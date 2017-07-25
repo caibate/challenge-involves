@@ -1,0 +1,11 @@
+br\com\challenge\involves\exception\ErrorFoundPropertiesException.class
+br\com\challenge\involves\exception\ErrorParseCSVException.class
+br\com\challenge\involves\view\View.class
+br\com\challenge\involves\exception\BaseNotFoundException.class
+br\com\challenge\involves\model\BaseCSV.class
+br\com\challenge\involves\controller\Controller.class
+br\com\challenge\involves\Main.class
+br\com\challenge\involves\exception\PropertyNotFoundException.class
+br\com\challenge\involves\config\PathDinamic.class
+br\com\challenge\involves\model\BaseGeneric.class
+br\com\challenge\involves\exception\OptionInvalidException.class
